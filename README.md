@@ -18,6 +18,70 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`pr*******rls.biz`  |Suspension |Specifically for illegal content|
 |`b***ag.net`        |Suspension |Specifically for illegal content|
 |`pl.smuglo.li`      |Suspension |Harassment and illegal content|
+|`ampire.estate`         |Suspension    |Harassment|
+|`youkai.town`         |Suspension    |Harassment|
+|`2.distsn.org`         |Suspension    |Harassment|
+|`social.sunshinegardens.org`         |Suspension    |Harassment|
+|`sunshinegardens.org`         |Suspension    |Harassment|
+|`psyched.cat`         |Suspension    |Harassment|
+|`mastodon.cloud`         |Sandbox    |Harassment|
+|`social.coop`         |Suspension    |Harassment|
+|`bofa.lol`         |Suspension    |Harassment|
+|`mstdn.kemono-friends.info`         |Sandbox    |Harassment|
+|`anime.website`         |Suspension    |Harassment|
+|`tri.cash`         |Suspension    |Harassment|
+|`socnet.supes.com`         |Suspension    |Harassment|
+|`bugs.social`         |Suspension    |Harassment|
+|`raki.social`         |Suspension    |Harassment|
+|`social.tchncs.de`         |Suspension    |Harassment|
+|`quey.org`         |Suspension    |Harassment|
+|`spacetime.social`         |Suspension    |Harassment|
+|`misskey.nl`         |Suspension    |Harassment|
+|`pixfed.com`         |Suspension    |Harassment|
+|`toot.world`         |Suspension    |Harassment|
+|`unsafe.co`         |Suspension    |Harassment|
+|`thefederation.net`         |Suspension    |Harassment|
+|`rainbowdash.net`         |Sandbox    |Harassment|
+|`shitposter.club`         |Suspension    |Harassment|
+|`freezepeach.xyz`         |Sandbox    |Harassment|
+|`social.heldscal.la`         |Sandbox    |Harassment|
+|`woofer.alfter.us`         |Sandbox    |Harassment|
+|`social.au2pb.net`         |Sandbox    |Harassment|
+|`gorf.club`         |Sandbox    |Harassment|
+|`sealion.club`         |Sandbox    |Harassment|
+|`gs.smuglo.li`         |Sandbox    |Harassment|
+|`unsafe.space`         |Sandbox    |Harassment|
+|`wrongthink.net`         |Sandbox    |Harassment|
+|`porntoot.com`         |Suspension    |Harassment|
+|`pawoo.net`         |Suspension    |Harassment|
+|`ediot.social`         |Sandbox    |Harassment|
+|`admins.town`         |Sandbox    |Harassment|
+|`social.targaryen.house`         |Sandbox    |Harassment|
+|`noagendasocial.com`         |Sandbox    |Harassment|
+|`ika.moe`         |Sandbox    |Harassment|
+|`anitwitter.moe`         |Sandbox    |Harassment|
+|`baraag.net`         |Suspension    |Harassment|
+|`social.allthefallen.ninja`         |Suspension    |Harassment|
+|`social.homunyan.com`         |Sandbox    |Harassment|
+|`preteengirls.biz`         |Suspension    |Harassment|
+|`social.hidamari.blue`         |Sandbox    |Harassment|
+|`libertarianism.club`         |Sandbox    |Harassment|
+|`toot.love`         |Sandbox    |Harassment|
+|`pl.smuglo.li`         |Suspension    |Harassment|
+|`pleroma.cucked.me`         |Suspension    |Harassment|
+|`voluntaryism.club`         |Sandbox    |Harassment|
+|`switter.at`         |Suspension    |Harassment|
+|`pleroma.rareome.ga`         |Suspension    |Harassment|
+|`2hu.club`         |Suspension    |Harassment|
+|`ap.uwu.st`         |Suspension    |Harassment|
+|`freespeech.firedragonstudios.com`         |Suspension    |Harassment|
+|`homura.space`         |Suspension    |Harassment|
+|`kowai.youkai.town`         |Suspension    |Harassment|
+|`loli.estate`         |Suspension    |Harassment|
+|`pleroma.yorha.club`         |Suspension    |Harassment|
+|`social.super-niche.club`         |Suspension    |Harassment|
+|`thechad.zone`         |Suspension    |Harassment|
+|`freespeechextremist.com`         |Suspension    |Harassment, Nazi Sympathizer|
 
 ### Severity legend
 
