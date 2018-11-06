@@ -15,8 +15,6 @@ This is a list of servers that mastodon.social inhibits federation with in vario
 |`bofa.lol`          |Sandbox    |Harassment|
 |`sealion.club`      |Suspension |Harassment|
 |`npf.mlpol.net`     |Suspension |"Nazi Pony Fucker"|
-|`pr*******rls.biz`  |Suspension |Specifically for illegal content|
-|`b***ag.net`        |Suspension |Specifically for illegal content|
 |`pl.smuglo.li`      |Suspension |Harassment and illegal content|
 |`ampire.estate`         |Suspension    |Harassment|
 |`youkai.town`         |Suspension    |Harassment|
